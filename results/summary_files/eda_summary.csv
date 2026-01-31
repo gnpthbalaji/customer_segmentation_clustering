@@ -1,0 +1,9 @@
+,Value
+Total_Customers,440
+Multivariate_Outliers,17
+Outlier_Percentage,3.9%
+Avg_Total_Spending,"$33,226"
+Gini_Coefficient,0.364
+PCA_Components_85pct,4
+Channel_1_vs_2_Significant,Yes (most categories)
+Region_Differences_Significant,Mixed
