@@ -1,0 +1,18 @@
+{
+    "best_model": "K-Means",
+    "n_clusters": 3,
+    "silhouette_score": 0.24465884076049293,
+    "davies_bouldin_index": 1.3199925962612993,
+    "calinski_harabasz_score": 138.1758725912045,
+    "total_customers": 440,
+    "features_used": [
+        "Fresh",
+        "Milk",
+        "Grocery",
+        "Frozen",
+        "Detergents_Paper",
+        "Delicassen"
+    ],
+    "scaling_method": "RobustScaler",
+    "transformation": "log1p"
+}
