@@ -2,6 +2,9 @@
 
 ## Notebook Links
 
+- [EDA](./notebooks/eda.ipynb)
+- [Clustering Models](./notebooks/clustering_models.ipynb)
+
 ## What is Customer Segmentation
 
 Customer segmentation is grouping customers into meaningful categories based on behavior or attributes. In an unsupervised setting, you do not have labels like “premium” or “churn risk.” Instead, you let patterns in the data suggest segments.
